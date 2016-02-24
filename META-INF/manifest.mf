@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IaxuL3zCkt1TM67mhY4Efg==
+SHA1-Digest: rR0CGSC6dT1y3HyMRP4uxm2PVaA=
+
+Name: bootstrap.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7bXGjs354WXP08z1LJmaUQ==
+SHA1-Digest: hBvzrYsRacNpTOCOH+GOhYBn2mE=
+
+Name: index.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xN9nT4oU4UsUpyyhFViJUw==
+SHA1-Digest: QbeSyx+EF5rF1T9jaHs6AUlUWAo=
+
+Name: package.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iLf8xVWyEMfGJxyLDH6CdA==
+SHA1-Digest: 5+eEdGxZZsodDw8r6V+ukF90mnU=
+
+Name: README.md
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SoPPMwPSg7vdJBwioE7cnw==
+SHA1-Digest: KGmcjKDjD0JB8KoIN7U7Yz+D4xk=
+

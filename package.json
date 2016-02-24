@@ -1,0 +1,27 @@
+{
+	"title": "Realtime IP Check",
+	"name": "realtimeip",
+	"id": "jid1-cxyk5vMBOgAABQ@jetpack",
+	"version": "0.4",
+	"description": "checks your ip via the service https://l2.io/ip.js ",
+	"main": "index.js",
+	"author": "Ulf3000",
+	"engines": {
+		"firefox": ">=38.0a1",
+		"fennec": ">=38.0a1"
+	},
+	"license": "MPL 2.0",
+	"keywords": [
+		"jetpack"
+	],
+	"preferences": [
+		{
+			"description": "The interval for IP Check in seconds",
+			"name": "interval",
+			"type": "integer",
+			"value": 20,
+			"title": "IP Check Interval"
+		}
+	],
+	"permissions": {"private-browsing": true}
+}
