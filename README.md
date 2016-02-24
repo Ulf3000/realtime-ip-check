@@ -1,2 +1,3 @@
 #Realtime IP Check
-A basic add-on
+
+Intervall IP checker for firefox neatly integrated into the browser toolbar and minimal processing(<0.1% cpu).
